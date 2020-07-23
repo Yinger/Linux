@@ -1,2 +1,2 @@
 # Linux
-Linux笔记
+![LinuxTools](linux_perf_tools_full.png)
