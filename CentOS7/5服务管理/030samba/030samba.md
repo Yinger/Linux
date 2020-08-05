@@ -5,6 +5,8 @@
   * 协议不同
   * 对操作系统的支持程度不同
   * 交互的便利性不同
+
+## Samba
 * Samba 服务的安装
   * yum install samba
 * Samba 服务配置文件
